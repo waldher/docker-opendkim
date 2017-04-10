@@ -1,4 +1,4 @@
-# B2 for docker
+# OpenDKIM for docker
 
 This is an image for running [OpenDKIM](http://www.opendkim.org/). This image is based on the lightweight [Alpine Linux](https://alpinelinux.org/).
 
