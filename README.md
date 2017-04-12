@@ -5,5 +5,5 @@ This is an image for running [OpenDKIM](http://www.opendkim.org/). This image is
 ## Usage
 
 ```
-docker run -v /etc/my-opendkim.conf:/etc/opendkim/opendkim.conf -p inet:12301
+docker run -v /etc/my-opendkim.conf:/etc/opendkim/opendkim.conf waldher/opendkim -p inet:12301
 ```
